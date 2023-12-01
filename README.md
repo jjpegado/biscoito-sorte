@@ -25,6 +25,6 @@ npm install react
 ```shell
 npm start
 ```
-## print da aplicação
+## Print da aplicação
 
 ![](./src/assets/Captura%20de%20Tela%20(1).png)

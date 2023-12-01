@@ -2,7 +2,8 @@
 
 # Observado
 
-![GitHub language count](https://img.shields.io/github/languages/count/jjpegado/biscoito-Sorte)
+![GitHub language count](https://img.shields.io/github/languages/count/jjpegado/Projeto-Biscoito-Da-Sorte
+)
 
 
 ## Sobre

@@ -17,7 +17,7 @@ Para executar este projeto localmente, você precisa:
 - Instalar dependência para frontend o react
 
 ```shell
-npm install react 
+npm install 
 ```
 
 - Execute o projeto com:
